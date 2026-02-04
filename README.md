@@ -1,10 +1,12 @@
-# Week4 Before the Journey Begin
+# Week 4 - Before the Journey Begin
 
-Selamat datang di modul "Rekursi dan Git Branch"! Modul ini dirancang khusus untuk pemula yang ingin mempelajari dua konsep penting dalam pemrograman dan pengelolaan kode: rekursi dalam pemrograman dan penggunaan branch dalam Git.
+Selamat datang di modul **"Rekursi dan Git Branch"**! 🧙‍♂️
 
-Sebelum itu, Repo ini adalah gerbang utama sebelum kalian Live Code di RPN.
+Modul ini dirancang khusus untuk pemula yang ingin mempelajari dua konsep penting dalam pemrograman dan pengelolaan kode: rekursi dalam pemrograman dan penggunaan branch dalam Git.
 
-## Apa yang akan Anda pelajari?
+**Repo ini adalah gerbang utama sebelum kalian Live Code di ETHJKT.**
+
+## Apa yang akan Kalian pelajari?
 
 ### Rekursi dalam Pemrograman, Git Branch dan Regex
 
@@ -24,36 +26,35 @@ Sebelum itu, Repo ini adalah gerbang utama sebelum kalian Live Code di RPN.
 
 ## Cara Menggunakan Repo Ini
 
-1. **Mulailah dengan membaca materi yang tersedia di setiap folder.** Setiap topik disertai dengan penjelasan mendetail dan contoh kode yang bisa Anda pelajari.
-2. **Coba tulis kode Anda sendiri!** Setiap bagian menyertakan latihan praktis yang bisa Anda coba untuk menguji pemahaman Anda.
-3. **Bergabunglah dengan komunitas.** Jangan ragu untuk bertanya atau berdiskusi dengan sesama pemula di bagian issues atau melalui pull requests.
+1. **Mulailah dengan membaca materi yang tersedia di setiap folder.** Setiap topik disertai dengan penjelasan mendetail dan contoh kode yang bisa Kalian pelajari.
+2. **Coba tulis kode Kalian sendiri!** Setiap bagian menyertakan latihan praktis yang bisa Kalian coba untuk menguji pemahaman Kalian.
+3. **Bergabunglah dengan komunitas.** Jangan ragu untuk bertanya atau berdiskusi dengan sesama Etherean di bagian issues atau melalui pull requests.
 
 ## Week 4 Study Materials
-- [Recursive](https://github.com/RPN-Phase-0/Week4-Before-the-Journey-Begin/blob/main/study-materials/part1.md)
-- [Git Branch](https://github.com/RPN-Phase-0/Week4-Before-the-Journey-Begin/blob/main/study-materials/part2.md)
-- [Regex](https://github.com/RPN-Phase-0/Week4-Before-the-Journey-Begin/blob/main/study-materials/part3.md)
+- [Recursive](./study-materials/part1.md)
+- [Git Branch](./study-materials/part2.md)
+- [Regex](./study-materials/part3.md)
 
-## Week 4 Logic Nolep (Quiz)
-- [Part1](https://github.com/RPN-Phase-0/Week4-Before-the-Journey-Begin/tree/main/quiz/part1)
-- [Part2](https://github.com/RPN-Phase-0/Week4-Before-the-Journey-Begin/tree/main/quiz/part2)
-- [Part3](https://github.com/RPN-Phase-0/Week4-Before-the-Journey-Begin/tree/main/quiz/part3)
-- [Ujian Akhir (LiveCode)](https://github.com/RPN-Phase-0/Week4-Before-the-Journey-Begin/tree/main/quiz/ujian)
+## Week 4 Arcane Quest (Quiz)
+- [Part1](./quiz/part1/README.md)
+- [Part2](./quiz/part2/README.md)
+- [Part3](./quiz/part3/README.md)
+- [Ujian Akhir (LiveCode)](./quiz/ujian/README.md)
 
 ## Ujian Akhir Phase-0
 
-Eits sebelum kalian final live code dan lulus phase 0
-kalian diwajibkan memiliki akun codewars dan akun tersebut sudah berlevel kyu 6
+Eits sebelum kalian final live code dan lulus Phase 0, kalian diwajibkan memiliki akun codewars dan akun tersebut sudah berlevel **kyu 6**.
 
 https://www.codewars.com/dashboard
 
-lalu bila sudah mencapai kyu 6 harus ngapain?
+Lalu bila sudah mencapai kyu 6 harus ngapain?
 
-- SS bukti kalian sudah mencapai kyu 6 dan simpan SS kalian di folder ini
-- berkabar ke sepuh nolep (admin) di [Discord RPN](https://discord.gg/ufbRBRTKN8)
+- Screenshot bukti kalian sudah mencapai kyu 6 dan simpan SS kalian di folder ini
+- Berkabar ke mentor di [Discord ETHJKT](https://discord.gg/Bb7UF4vuK4)
 
-nanti kita akan tentuin waktu yang nyaman
+Nanti kita akan tentuin waktu yang nyaman untuk live code session.
 
-Good Luck
+**Good Luck, Etherean!** 🧙‍♂️
 
 ## Dukung Kami
 
@@ -61,5 +62,4 @@ Jika Kalian menemukan repo ini bermanfaat, jangan lupa untuk memberikan bintang 
 
 Selamat belajar dan selamat datang di dunia pemrograman! 🚀
 
-[Discord RPN](https://discord.gg/ufbRBRTKN8)
-
+[Discord ETHJKT](https://discord.gg/Bb7UF4vuK4)
